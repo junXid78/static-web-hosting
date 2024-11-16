@@ -22,7 +22,7 @@ This project demonstrates the deployment of a static website to AWS S3 using AWS
 
    ![Screenshot (28)](https://github.com/user-attachments/assets/89fdda16-0317-44d4-a7bd-264da788c21e)
 
-6. Configure the index and error document names (e.g., `index.html` and `error.html`).
+6. Configure the index and error document names (e.g., "project.html").
 7. Set up bucket policy to allow cloudfront access to the files in the bucket.
 
    ![Screenshot (30)](https://github.com/user-attachments/assets/b4f10dbb-5226-4288-a844-8c9e98914905)
