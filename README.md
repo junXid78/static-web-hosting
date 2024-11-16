@@ -57,7 +57,8 @@ This project demonstrates the deployment of a static website to AWS S3 using AWS
 
 1. Push changes to your Git repository.
 
-   
+   ![Screenshot (37)](https://github.com/user-attachments/assets/21215659-aa26-42ce-8471-d92513e4dcb9)
+
 3. CodePipeline will automatically trigger and deploy the updated website to the S3 bucket.
 4. CloudFront will update the cached content, and the website will reflect the latest changes.
 
